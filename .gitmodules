@@ -1,0 +1,3 @@
+[submodule "include/darknessomi_musicbox"]
+	path = include/darknessomi_musicbox
+	url = git@github.com:darknessomi/musicbox.git
